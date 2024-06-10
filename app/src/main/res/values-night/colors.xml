@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FFFFFFFF</color> <!-- inverse of light theme -->
+    <color name="white">#FF000000</color>
+    <color name="gray">#FFA07A</color>
+    <color name="gray_light">#FFA07A</color>
+    <color name="gray_dark">#B0BEC5</color>
+    <color name="orange">#FF5722</color>
+    <color name="orange_light">#FFAB91</color>
+    <color name="orange_dark">#E64A19</color>
+    <color name="colorSubtitle">#BDBDBD</color>
+    <color name="colorValidating">#FFA500</color>
+    <color name="colorError">#FF0000</color>
+    <color name="colorValid">#000000</color>
+</resources>

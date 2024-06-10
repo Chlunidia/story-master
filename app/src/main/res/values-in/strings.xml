@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story World</string>
+    <string name="detail">Detail Cerita</string>
+    <string name="story_title">Cerita Inspiratif</string>
+    <string name="story_description">
+        Temukan koleksi cerita inspiratif dari orang-orang di seluruh dunia. Setiap cerita adalah bukti semangat manusia, ketekunan, dan pengejaran mimpi. Masuki pengalaman yang membentuk hidup mereka dan temukan sumber motivasi Anda sendiri.
+    </string>
+    <string name="login_button">Masuk</string>
+    <string name="email_hint">Masukkan email Anda</string>
+    <string name="password_hint">Masukkan kata sandi Anda</string>
+    <string name="register_prompt">Daftar di sini</string>
+    <string name="register_button">Daftar</string>
+    <string name="account_prompt">Sudah punya akun?</string>
+    <string name="login_prompt">Masuk di sini</string>
+    <string name="username_hint">Masukkan nama Anda</string>
+    <string name="settings_menu">Pengaturan</string>
+    <string name="loading_message">Memuat…</string>
+    <string name="add_button">Tambah Cerita</string>
+    <string name="image_label">Gambar Cerita</string>
+    <string name="logout_button">Keluar</string>
+    <string name="language_option">Pilih Bahasa</string>
+    <string name="gallery_option">Pilih dari Galeri</string>
+    <string name="camera_option">Ambil Foto</string>
+    <string name="description_hint">Tulis cerita Anda di sini</string>
+    <string name="upload_button">Unggah Cerita</string>
+    <string name="empty_description_error">Harap masukkan deskripsi</string>
+    <string name="empty_field_error">Kolom ini tidak boleh kosong</string>
+    <string name="password_length_error">Kata sandi harus minimal 8 karakter</string>
+    <string name="camera_error_message">Tidak dapat membuka kamera</string>
+    <string name="minimum_characters">Kata sandi harus minimal 8 karakter</string>
+    <string name="welcome_back">Selamat Datang Kembali!</string>
+    <string name="welcome">Halo!</string>
+    <string name="string_home">Beranda</string>
+    <string name="theme_change_button">Ubah Tema</string>
+    <string name="invalid_email">Format email tidak valid</string>
+    <string name="registration_successful">Pendaftaran berhasil!</string>
+    <string name="registration_failed">Pendaftaran gagal</string>
+    <string name="no_data_message">Tidak ada data tersedia</string>
+    <string name="login_failed">Login gagal: %1$s</string>
+    <string name="logo_description">Logo Aplikasi</string>
+    <string name="maps">Peta</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="network_error">Terjadi kesalahan jaringan. Silakan periksa koneksi Anda.</string>
+    <string name="current_location">Current Location</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="location_not_available">Location: Not Available</string>
+    <string name="camera_permission_required">Camera permission is required to take photos.</string>
+    <string name="location_permission_required">Location permission is required to get the current location.</string>
+    <string name="unable_to_get_location">Unable to get current location</string>
+    <string name="story_uploaded_successfully">Story uploaded successfully!</string>
+    <string name="upload_failed">Upload failed: %1$s</string>
+    <string name="location_coordinates">Location: %1$s, %2$s</string>
+    <string name="welcome_page">Explore, read, and create stories that ignite your passion and creativity!</string>
+</resources>

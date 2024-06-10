@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story World</string>
+    <string name="detail">Story Detail</string>
+    <string name="story_title">Inspirational Stories</string>
+    <string name="story_description">
+        Discover a collection of inspirational stories from people around the world. Each story is a testament to human spirit, perseverance, and the pursuit of dreams. Dive into the experiences that shaped their lives and find your own source of motivation.
+    </string>
+    <string name="login_button">Log In</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="register_prompt">Register here</string>
+    <string name="register_button">Register</string>
+    <string name="account_prompt">Already have an account?</string>
+    <string name="login_prompt">Sign in here</string>
+    <string name="username_hint">Enter your name</string>
+    <string name="settings_menu">Settings</string>
+    <string name="loading_message">Loading…</string>
+    <string name="add_button">Add Story</string>
+    <string name="image_label">Story Image</string>
+    <string name="logout_button">Log Out</string>
+    <string name="language_option">Select Language</string>
+    <string name="gallery_option">Choose from Gallery</string>
+    <string name="camera_option">Take a Photo</string>
+    <string name="description_hint">Write your story here</string>
+    <string name="upload_button">Upload Story</string>
+    <string name="empty_description_error">Please provide a description</string>
+    <string name="empty_field_error">This field cannot be empty</string>
+    <string name="password_length_error">Password must be at least 8 characters long</string>
+    <string name="camera_error_message">Unable to open the camera</string>
+    <string name="minimum_characters">Password must be at least 8 characters</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="welcome">Hello!</string>
+    <string name="string_home">Home</string>
+    <string name="theme_change_button">Change Theme</string>
+    <string name="invalid_email">Invalid email format</string>
+    <string name="registration_successful">Registration successful!</string>
+    <string name="registration_failed">Registration failed</string>
+    <string name="no_data_message">No data available</string>
+    <string name="login_failed">Login failed: %1$s</string>
+    <string name="logo_description">App Logo</string>
+    <string name="maps">Maps</string>
+    <string name="retry">Retry</string>
+    <string name="network_error">Network error occurred. Please check your connection.</string>
+    <string name="current_location">Current Location</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="location_not_available">Location: Not Available</string>
+    <string name="camera_permission_required">Camera permission is required to take photos.</string>
+    <string name="location_permission_required">Location permission is required to get the current location.</string>
+    <string name="unable_to_get_location">Unable to get current location</string>
+    <string name="story_uploaded_successfully">Story uploaded successfully!</string>
+    <string name="upload_failed">Upload failed: %1$s</string>
+    <string name="location_coordinates">Location: %1$s, %2$s</string>
+    <string name="welcome_page">Explore, read, and create stories that ignite your passion and creativity!</string>
+</resources>
